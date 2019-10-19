@@ -97,4 +97,4 @@ also have a greater chance of identifying with imposter syndrome. Since the inte
 
 ---
 
-![](imposter-syndrome-cartoon-084c2a71-e3d0-44d9-bf9a-15315c3d4c02.gif)
+<img src="imposter-syndrome-cartoon.gif" width="600"/>
