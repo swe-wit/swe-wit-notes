@@ -2,7 +2,7 @@
 
 *Teaching curriculum for SWE & WIT website building program.*
 
-*note: Pre-Session 1 notes can be accessed at [bit.ly/pre-session-1-notes](http://bit.ly/pre-session-1-notes).
+*note: Pre-Session 1 notes can be accessed at [bit.ly/pre-session-1-md](http://bit.ly/pre-session-1-md).
 
 ---
 
