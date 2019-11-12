@@ -24,7 +24,7 @@
 
 **Github** is a online hosting system for Git projects. 
 
-Both are examples of version control software**.** 
+Both are examples of version control software.
 
 → **Version control** is an important part of code development. There's many reasons that long-term projects require version control:
 
@@ -38,7 +38,7 @@ etc.
 
 You need to make a Github account!
 
-Start by visiting [github.com](https://github.com), then click *Sign Up* in the upper left corner*.*  
+Start by visiting [github.com](https://github.com), then click *Sign Up* in the upper left corner. 
 
 Fill out your info and click *Select a Plan* at the bottom. 
 
