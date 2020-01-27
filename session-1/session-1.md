@@ -46,7 +46,7 @@ There's a big, green button on the left-hand side that says *Clone or download.*
 
 Then, open a *command-line interface.* On my Mac, it's called *Terminal,* and it looks like this:
 
-![Session%201%20Git/terminal.png](Session%201%20Git/terminal.png)
+![](Session%201%20Git/terminal.png)
 
 You just open it like you would any other app.
 
