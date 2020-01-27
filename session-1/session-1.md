@@ -1,6 +1,6 @@
 # Session 1: Git
 
-*Teaching curriculum for SWE & WIT website building program.*
+*Teaching curriculum for SWE & WIT website building program.* <br>
 
 ---
 
@@ -64,7 +64,7 @@ You now have the repository downloaded onto your local computer.
 
 ***If you do not see a banner at the top of your page,*** then there is a problem with your Github account receiving organization access. It's not especially important to learn the basics of Git today, but for long-term development you'll want to join the organization. Make sure you give Alessa your Github username so we can look into the problem!
 
-For today, visit the [swe-wit.gitub.io](https://github.com/swe-wit/swe-wit.github.io) repo and clone it using the same steps [as above](https://www.notion.so/sophiegroenwold/Session-1-Git-21cad3e8b77b4b47a2720c4c71df6551#b10f1dddca274c6783ead0ec36a58fde). 
+For today, visit the [swe-wit.gitub.io](https://github.com/swe-wit/swe-wit.github.io) repo and clone it using the same steps as above. 
 
 ## How do I code in a file?
 
