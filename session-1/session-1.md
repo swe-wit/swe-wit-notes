@@ -30,7 +30,7 @@ Visit [https://github.com/swe-wit](https://github.com/swe-wit).
 
 You should see a banner at the top of the page saying I've invited you to join `swe-wit`. Click *View* and then *Join swe-wit.* You should now see this page:
 
-![Session%201%20Git/swe-wit-2.png](Session%201%20Git/swe-wit-2.png)
+![](swe-wit-2.png)
 
 Click on the [swe-wit.gitub.io](https://github.com/swe-wit/swe-wit.github.io) repo, and complete the following steps from our Pre-Session 1 notes (if you haven't already):
 
@@ -72,7 +72,7 @@ There are many *text editors* that will let you do this. We're going to use one 
 
 To try it, type `vim index.html`. You should see this:
 
-![Session%201%20Git/vim.png](Session%201%20Git/vim.png)
+![](vim.png)
 
 index.html opened using vim. 
 
@@ -86,7 +86,7 @@ When you're done, press `esc` + `:wq` to save and quit, or `esc` + `:q` to quit 
 
 Today, we're going to change that code so that each of you signs your name on a version of it. The final result will look something like:
 
-![Session%201%20Git/website.png](Session%201%20Git/website.png)
+![](website.png)
 
 But with your name, of course.
 
@@ -96,7 +96,7 @@ One of the biggest problems of coding with a group is making conflicting changes
 
 A parallel version of your code that does not disrupt the original version. If we like this parallel version, we can merge it back with the original version (what we call the *master branch*).
 
-![Session%201%20Git/branches.png](Session%201%20Git/branches.png)
+![](branches.png)
 
 So each of you is going to make your own branch to sign your name, but not merge it with the master branch (that would create a merge conflict!). 
 
@@ -122,7 +122,7 @@ We want these changes to be reflected on Github, without merging them to master.
 
 Now on Github, when you select the following drop-down menu, you should see your own branch as a parallel version of the code. 
 
-![Session%201%20Git/repo-branches.png](Session%201%20Git/repo-branches.png)
+![](repo-branches.png)
 
 For today, that's all we're going to do! Make sure that on your command line, you do
 
