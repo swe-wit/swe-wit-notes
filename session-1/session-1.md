@@ -100,7 +100,7 @@ A parallel version of your code that does not disrupt the original version. If w
 
 So each of you is going to make your own branch to sign your name, but not merge it with the master branch (that would create a merge conflict!). 
 
-From inside the `[swe-wit.github.io](http://swe-wit.github.io)` repo in your command line, type 
+From inside the `swe-wit.github.io` repo in your command line, type 
 
 `git checkout -b sg-HelloWorld` *(but use your initials instead of* `sg`*)*
 
@@ -136,7 +136,7 @@ Thanks guys!
 
 ## How do I update the changes I've made to the repository I see on Github?
 
-When inside the `[swe-wit.github.io](http://swe-wit.github.io)` directory on your computer, type the following:
+When inside the `swe-wit.github.io` directory on your computer, type the following:
 
 `git add .`
 
@@ -150,7 +150,7 @@ When inside the `[swe-wit.github.io](http://swe-wit.github.io)` directory on you
 
 ## How do I bring new changes that exist on Github onto my own computer?
 
-When inside the `[swe-wit.github.io](http://swe-wit.github.io)` directory on your computer, type the following:
+When inside the `swe-wit.github.io` directory on your computer, type the following:
 
 `git pull origin master`
 
@@ -160,7 +160,7 @@ And your directory should update to match the repository on Github.
 
 We have to be careful when working with many other people on the same project! Sometimes multiple people try to update the remote repository with their individual changes at the same time. 
 
-This can lead to *merge conflicts***,** which are when people try to push their competing versions to Github. It's ok if this happens — Git is designed to handle these situations (let us know and we'll help you). 
+This can lead to *merge conflicts*, which are when people try to push their competing versions to Github. It's ok if this happens — Git is designed to handle these situations (let us know and we'll help you). 
 
 But to avoid merge conflicts, make sure you communicate about who is working and when, and:
 
